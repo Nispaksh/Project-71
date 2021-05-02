@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to bottom right,blue,cyan);
+}
+h1{
+    font-family: fantasy;
+    font-size: 30px;
+}
+img{
+    width: auto;
+    height: auto;
+    border-style: groove;
+    border-width: thick;
+}
+h2{
+    font-size: 20px;
+    font-family: cursive;
+}
+p{
+    text-align: justify;
+}
